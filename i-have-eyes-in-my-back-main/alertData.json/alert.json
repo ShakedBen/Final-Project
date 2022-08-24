@@ -1,0 +1,69 @@
+{
+    "PasswordNotTheSame": {
+       "message": "הסיסמאות שהזנת לא זהות.",
+       "text": "",
+       "textButton": "הבנתי",
+       "pageName": ""
+    },
+    "errorMessage": {
+        "message": "משהו השתבש, נסה שנית מאוחר יותר.",
+        "text": "",
+        "textButton":"חזרה לעמוד הבית",
+        "pageName": "HomePage"
+    },
+    "NotStrongPassword": {
+        "message": "הסיסמה שהזנת לא מספיק חזקה.",
+        "text":" אנא וודא שהסיסמה מכילה לפחות 8 תווים. \nמספר, אות גדולה, אות קטנה ותו מיוחד.",
+        "textButton":"הבנתי",
+        "pageName": ""
+    },
+    "NoInput": {
+        "message": "לא הוכנס מייל",
+        "text":"",
+        "textButton":"הבנתי",
+        "pageName": ""
+    },   
+    "NoValidInput": {
+        "message": "המייל שהוכנס לא תקין",
+        "text":"",
+        "textButton":"הבנתי",
+        "pageName": ""
+    },
+    "forgetPasswordMessageValidEmail": {
+        "message": "אנא בדוק את המייל",
+        "text": "נשלח קוד אימות לצורך אימות מייל המשתמש.",
+        "textButton":"הבנתי",
+        "pageName": "VerifyCode"
+
+
+    },
+    "forgetPasswordMessageNotValidEmail": {
+        "message": "עדיין לא נרשמת למערכת",
+        "text": "",
+        "textButton":"הבנתי",
+        "pageName": "HomePage"
+
+
+    },
+    "UserNotExist": {
+      "message": "המשתמש לא קיים במערכת.",
+      "text": "",
+      "textButton":"הבנתי",
+      "pageName": "HomePage"
+
+    },
+    "NoInputCode": {
+        "message": "לא הוכנס קוד",
+        "text":"",
+        "textButton":"הבנתי",
+        "pageName": ""
+    },
+    "NoValidCode": {
+        "message": "שגיאה",
+        "text":"הקוד שהוכנס לא תקין",
+        "textButton":"הבנתי",
+        "pageName": ""
+    } 
+
+
+}

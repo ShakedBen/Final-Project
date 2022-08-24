@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>I have eyes in my back</string>
+	<key>CFBundleExecutable</key>
+	<string>I have eyes in my back</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-1643646ba8e1fa40a0fc221b05e66d050d56bc7b383e2b8b7d306bda5915b6e3.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>I have eyes in my back</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>I have eyes in my back</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

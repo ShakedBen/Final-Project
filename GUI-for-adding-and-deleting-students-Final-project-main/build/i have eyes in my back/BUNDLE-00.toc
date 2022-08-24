@@ -1,0 +1,5 @@
+([('I have eyes in my back',
+   '/Users/judy/Desktop/תואר/פרוייקט '
+   'גמר/GUI-for-adding-and-deleting-students-Final-project/dist/I have eyes in '
+   'my back',
+   'EXECUTABLE')],)
