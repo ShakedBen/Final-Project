@@ -1,9 +1,3 @@
-// judi '+972543315931----+12184141637'
-//0523190543
-//0523194226
-//mmyt1785@gmail.com
-// ZSRX_9PTwu@=Zc^12345678
-
 const LessonSchema = require('./models/Lesson');
 const DailyAttendanceSchema = require('./models/DailyAttendance');
 const studentsListSchema=require("./models/studentList");
